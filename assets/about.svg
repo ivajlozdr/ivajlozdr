@@ -42,20 +42,20 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="110" class="cc">. </tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Intel Core i5-14600KF</tspan>
 <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">GPU</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Radeon RX 7700XT</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">RAM</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">32GBs@3200MHz</tspan>
-<tspan x="390" y="190" class="cc">. </tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">VSCode 1.98.1, IDEA Community 2024.3</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">TypeScript, Python, Java</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Bulgarian</tspan>
-<tspan x="390" y="310" class="cc">. </tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">NOIT, Bad project ideas at 3AM</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">PC building, Playing with electricity</tspan>
-<tspan x="390" y="370" class="cc">. </tspan>
-<tspan x="390" y="390">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">ivajlozdravkov77@gmail.com</tspan>
-<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Memory</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">32G@3200MHz</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Storage</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">SFYRS1000G@7300/6000MB/s</tspan>
+<tspan x="390" y="210" class="cc">. </tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">VSCode 1.98.1, IDEA Community 2024.3</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">TypeScript, Python, Java</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Bulgarian</tspan>
+<tspan x="390" y="330" class="cc">. </tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">NOIT, Bad project ideas at 3AM</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">PC building, Playing with electricity</tspan>
+<tspan x="390" y="390" class="cc">. </tspan>
+<tspan x="390" y="410">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">ivajlozdravkov77@gmail.com</tspan>
 <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Ivaylo Zdravkov</tspan>
 <tspan x="22" y="500">Certified idiot who </tspan><tspan class="key" font-style="italic">(sometimes)</tspan><tspan> loves to code. Hope the salary is worth the lack of a social life! </tspan>
 </text>
