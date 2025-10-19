@@ -1,5 +1,6 @@
 ![about](assets/about.svg)
 
+[![gitlocalized ](https://gitlocalize.com/repo/10443/bg/badge.svg)](https://gitlocalize.com/repo/10443/bg?utm_source=badge)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ivajlozdr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
