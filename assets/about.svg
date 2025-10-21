@@ -40,7 +40,7 @@
     <text x="390" y="30" fill="#c9d1d9">
         <tspan x="390" y="30" class="white">ivajlo<tspan class="white-dark">@</tspan>zdr</tspan> -—————————————————————————————————————————————-—-
         <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Pop!_OS 22.04 LTS, Windows 11 Pro, Android 15</tspan>
-        <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................... </tspan><tspan class="value" id="age_data">17 years, 8 months</tspan>
+        <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">17 years, 8 months, 5 days</tspan>
         <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">PGI - Pernik</tspan>
         <tspan x="390" y="110">- <tspan class="bold">Specs</tspan></tspan> -————————————————————————————————————————————————-—-
         <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Intel Core i5-14600KF @ 5.3GHz</tspan>

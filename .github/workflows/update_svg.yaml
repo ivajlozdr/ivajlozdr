@@ -18,7 +18,6 @@ jobs:
 
       - name: update
         run: |
-          npm install
           node updater.js
 
       - name: push
